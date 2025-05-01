@@ -1,8 +1,9 @@
 body {
   background-color: aliceblue;
   text-align: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: 20%;
+  background-image:url("https://cdn.glitch.global/666ddb85-c5f1-43e6-88f4-792a26455b97/noFilter.webp?v=1743783592911");
+  background-repeat: repeat;
   background-attachment: fixed; 
 /*   margin-top: 10%; */
   font-family: Georgia, serif;
@@ -15,12 +16,13 @@ html{
 
 #myCanvas {
   border: 1px solid black;
+  background-image: url("https://cdn.glitch.global/666ddb85-c5f1-43e6-88f4-792a26455b97/it-never-snows-v0-iznq2jtp8eee1.webp?v=1743092498240");
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+   background-image: ("https://cdn.glitch.global/666ddb85-c5f1-43e6-88f4-792a26455b97/it-never-snows-v0-iznq2jtp8eee1.webp?v=1743092498240");
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
